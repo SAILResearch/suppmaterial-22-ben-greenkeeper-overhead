@@ -25,6 +25,8 @@ If the GKIR is not a bundled GKIR, the list will only have a single record (i.e.
 
 ## Datasets
 
+See [this release](https://github.com/SAILResearch/suppmaterial-22-ben-greenkeeper-overhead/releases/tag/v1) to download the datasets.
+
 ### `gkirs.csv` - All GKIRs.
 
 |   col_index | attribute                 | type     | description                                                                                            |
